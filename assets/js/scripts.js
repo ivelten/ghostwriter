@@ -74,6 +74,9 @@ jQuery(function($) {
                 $ajaxContainer.html($newContent);
                 $ajaxContainer.fadeIn(500);
 
+                // Rerun Prism syntax highlighting on the current page
+                Prism.highlightAll();
+
                 NProgress.done();
 
                 loading = false;

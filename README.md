@@ -1,14 +1,14 @@
-# Ghostwriter
+# Ismael Velten's customized Ghostwriter theme
 
 Ghostwriter is a simple AJAX driven theme for the [Ghost](http://github.com/tryghost/ghost/) blogging platform released under the MIT License.
 
 **[View a demo of Ghostwriter](http://ghost.jollygoodthemes.com/ghostwriter/)**
 
-**[Download Ghostwriter](https://github.com/roryg/ghostwriter/archive/master.zip)**
+**[Official theme](https://github.com/roryg/ghostwriter/archive/master.zip)**
 
-**[See more of my themes](http://jollygoodthemes.com)**
+**[More themes from the author](http://jollygoodthemes.com)**
 
-### Features
+### Features (from default theme)
 
 * Supports Ghost 0.5.x
 * Clean typography focused design.
@@ -18,6 +18,10 @@ Ghostwriter is a simple AJAX driven theme for the [Ghost](http://github.com/tryg
 * Static page support.
 * Featured post support.
 * A bunch of other bits and bobs.
+
+### Custom features (added by me)
+
+* Syntax highlighting
 
 ### Troubleshooting
 
